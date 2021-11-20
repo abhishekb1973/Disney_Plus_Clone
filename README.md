@@ -1,4 +1,3 @@
-# Disney_Plus_Clone
 # Disney+ Clone
 
 [**Live Demo**](https://disneyplus.dionisiusdarryl.com/)  
